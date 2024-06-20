@@ -1,0 +1,4 @@
+CMND: 082245789813 - Họ tên: Lương Ánh Huyền - Ga đến: TP - Hồ Chí Minh - Giá vé: 150000
+CMND: 912301393922 - Họ tên: Nguyễn Thị Nam - Ga đến: Nha Trang - Giá vé: 200000
+CMND: 321321332133 - Họ tên: Lê Xuân Bình - Ga đến: Đà Lạt - Giá vé: 300000
+CMND: 123 - Họ tên: nghiêm - Ga đến: hà nội - Giá vé: 15000.0
